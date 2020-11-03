@@ -1,0 +1,70 @@
+
+
+header {
+  background-color: #D99C79;
+  font-family: Georgia, 'Helvetica', Times, serif;
+  font-size: larger;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-style: italic;
+  padding: 10px;
+  color: #fae4d7;
+  
+}
+
+a {
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 8px;
+  background-color: #D99C79;
+}
+
+
+li {
+  display: inline;
+  float: left;
+  padding: 10px;
+}
+
+a {
+  font-family: Georgia, 'Helvetica', Times, serif;
+  font-size: large;
+  color: #F2CAB3;
+  display: inline;
+  margin-right: 2px;
+  padding: 8px;
+}
+
+
+nav {
+  padding: 25px;
+  background-color: #D99C79;
+}
+
+  
+
+.terms{
+  font-size: 20px;
+  font-family: Georgia, 'Helvetica', Times, serif;
+  font-style: italic;
+  text-transform: uppercase;
+
+}
+
+.book{
+  margin: auto;
+  padding: 8px;
+  font-style: italic;
+  background-color: #fff6e2;
+  width: 20%;
+  font-size: 15px;
+  text-align: center;
+  border: transparent;
+  border-radius: 12%;
+
+
+}
